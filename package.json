@@ -1,0 +1,27 @@
+{
+  "name": "elmah.io",
+  "version": "0.1.0",
+  "description": "elmah.io error sending module for express",
+  "homepage": "https://github.com/elmahio/elmah.io.express",
+  "main": "lib/index.js",
+  "dependencies": {
+    "request": "*"
+  },
+  "author": {
+    "name": "elmah.io"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:elmahio/elmah.io.express.git"
+  },
+  "bugs": {
+    "url": "https://github.com/elmahio/elmah.io.express/issues"
+  },
+  "licenses": [
+    {
+      "type": "Apache",
+      "url": "https://github.com/elmahio/elmah.io.express/blob/master/LICENSE"
+    }
+  ],
+  "scripts": {}
+}
