@@ -1,3 +1,7 @@
+# The elmah.io.express package has been archived
+
+Check out https://github.com/elmahio/other-language-examples/blob/master/Node-Express/log.js to see how to log to elmah.io from Express.
+
 # elmah.io.express
 
 [![npm version](https://badge.fury.io/js/elmah.io.svg)](https://badge.fury.io/js/elmah.io)
